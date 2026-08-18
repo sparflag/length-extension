@@ -1,0 +1,7 @@
+slug: length-extension
+title: Length Extension
+category: cryptography
+difficulty: hard
+points: 400
+codec: fernet
+repo_url: https://github.com/sparflag/length-extension
